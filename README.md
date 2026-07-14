@@ -8,7 +8,7 @@ An end-to-end modern data stack project utilizing Google Cloud BigQuery for heav
 - Google BigQuery
 - Google Looker Studio
 - SQL
-- Public Climate Dataset
+- Public Climate Dataset (BigQuery Public Data NOAA GSOD)
 
 ---
 
